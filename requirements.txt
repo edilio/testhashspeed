@@ -1,0 +1,5 @@
+coinhash==1.1.5
+construct==2.5.2
+scrypt==0.8.0
+six==1.11.0
+#xcoin-hashs==1.0
